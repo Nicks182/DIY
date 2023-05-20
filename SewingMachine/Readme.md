@@ -1,4 +1,4 @@
-My grandparents bought this sewing machine new in 1964-ish. At some point it needed some fixing and a custom plug was fitted to it. This shorted out somehow and started to catch fire. Fortunately we pulled the plug from the wall and it stopped. Time rewire it and just get rid of the custom plug.
+My grandparents bought this sewing machine new in 1964-ish. At some point it needed some fixing and a custom plug was fitted to it. This shorted out somehow and started to catch fire. Fortunately we pulled the plug from the wall and it stopped. Time to rewire it and get rid of the custom plug.
 ![01](https://github.com/Nicks182/DIY/assets/13113785/5878d609-9f4f-442a-8428-cf0802746a22)
 
 ![02](https://github.com/Nicks182/DIY/assets/13113785/db6f0c8b-d6a8-48fc-8511-e9ec81836307)
