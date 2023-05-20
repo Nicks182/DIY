@@ -39,7 +39,7 @@ Fitted new switch, new fuse, and split the power between the motor and the light
 ![16](https://github.com/Nicks182/DIY/assets/13113785/8e3886c4-5439-462f-a296-60ecc3809976)
 
 
-Used some copper brackets to hold the wire and act a strain relief… and it looks cool…
+Used some copper brackets to hold the wire and act as strain relief… and it looks cool…
 ![17](https://github.com/Nicks182/DIY/assets/13113785/f453c3d6-b24d-42ca-8eb4-c4af7e48a181)
 
 Back up and running.
