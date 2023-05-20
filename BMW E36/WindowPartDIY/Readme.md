@@ -66,10 +66,6 @@ Put the track back with some new lithium grease. The bolt to the right of the tr
 ![17](https://github.com/Nicks182/DIY/assets/13113785/f145933d-6cd1-4f8b-8b46-8c3c53e7eb25)
 
 
-Alcohol + power tools… what can go wrong…
-![18](https://github.com/Nicks182/DIY/assets/13113785/d5c6c352-8cd2-4497-a6f4-f5a49e84aa6e)
-
-
 And it’s working again.
 
 [![Youtube Vid](https://img.youtube.com/vi/vXfwdyjLYHU/hqdefault.jpg)](https://www.youtube.com/watch?v=vXfwdyjLYHU)
