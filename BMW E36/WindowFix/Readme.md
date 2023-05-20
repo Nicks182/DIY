@@ -8,7 +8,7 @@ There's 2 common reasons this happens.
 
 ![1](https://github.com/Nicks182/DIY/assets/13113785/bcca00cd-3d50-4456-9bd0-eec95eb4f596)
 
-This has already happened with the other window and I bought a extra part then so had a spare ready to go…
+This has already happened with the other window and I bought a extra part then so I had a spare ready to go.
 ![2](https://github.com/Nicks182/DIY/assets/13113785/e7a3bc2f-c825-4941-a531-40d5cfcf5b1b)
 
 ![3](https://github.com/Nicks182/DIY/assets/13113785/0fb692e7-7001-4c3b-bea1-97d860655faf)
