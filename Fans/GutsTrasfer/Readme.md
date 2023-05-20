@@ -3,11 +3,10 @@ So one of our fans stopped working and it seems the motor it self gave up. It wa
 ![image](https://github.com/Nicks182/DIY/assets/13113785/f1b008df-a37c-4f3a-9fc4-ae552401deb8)
 
 I have another fan which is 100w, but it's a plastic monster and the thick plastic results in less airflow than the old 75w fan...
-
-![image](https://github.com/Nicks182/DIY/assets/13113785/51c9143d-2916-4611-8325-f7bd74d5195b)
+![image](https://github.com/Nicks182/DIY/assets/13113785/cf998497-338b-47c5-94f4-78b02c6a7786)
 
 First I needed to pull all the guts...
-![image](https://github.com/Nicks182/DIY/assets/13113785/cf998497-338b-47c5-94f4-78b02c6a7786)
+![image](https://github.com/Nicks182/DIY/assets/13113785/51c9143d-2916-4611-8325-f7bd74d5195b)
 
 Then I started work on some brackets as the 100w motor doesn't fit the wire frame holes. This was done using a very old pair of metal scissors which loves to pinch your fingers between the handles if you are not careful...
 ![image](https://github.com/Nicks182/DIY/assets/13113785/efc12605-2f0e-4edf-b266-683b59ee4a2a)
