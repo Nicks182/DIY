@@ -52,7 +52,7 @@ Placed a piece of wood behind the pin and drilled a hole. I used a 4.2mm bit and
 ![13](https://github.com/Nicks182/DIY/assets/13113785/75f3c401-fb4d-447f-b8fb-82acac225989)
 
 
-Once the hole is done we can tab it and make some threads for the bolt we will be using. The bolt is a 5mm, but that’s to the edge of the threads. Meaning out 4.2mm whole with the threads cut out ends up at 5mm.
+Once the hole is done we can tab it and make some threads for the bolt we will be using. The bolt is a 5mm, but that’s the diameter of the bolt including the threads of hte bolt. After we cut the threads in our 4.2mm whole, end up with enough space for a 5mm bolt.
 ![14](https://github.com/Nicks182/DIY/assets/13113785/5d94a7f5-9f9c-4466-a972-30a6e2ec4173)
 
 ![15](https://github.com/Nicks182/DIY/assets/13113785/9acddc8b-7bcc-400f-bbf3-7a38b4093db6)
