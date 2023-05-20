@@ -23,4 +23,5 @@ Cleaned it and used some glue to put it back together. The magnet is the importa
 ![6](https://github.com/Nicks182/DIY/assets/13113785/9ada667b-8f09-46c3-bec5-a7f0a4f34c95)
 
 And fixed.
+
 [![Youtube Demo](https://img.youtube.com/vi/FefdnBTLOwI/hqdefault.jpg)](https://www.youtube.com/watch?v=FefdnBTLOwI)
