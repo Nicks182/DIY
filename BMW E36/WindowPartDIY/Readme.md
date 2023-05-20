@@ -71,6 +71,7 @@ Alcohol + power tools… what can go wrong…
 
 
 And it’s working again.
+
 [![Youtube Vid](https://img.youtube.com/vi/vXfwdyjLYHU/hqdefault.jpg)](https://www.youtube.com/watch?v=vXfwdyjLYHU)
 
 
