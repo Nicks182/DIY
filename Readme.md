@@ -1,1 +1,3 @@
 
+Alcohol + power tools… what can go wrong…
+![18](https://github.com/Nicks182/DIY/assets/13113785/d5c6c352-8cd2-4497-a6f4-f5a49e84aa6e)
